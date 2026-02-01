@@ -1,0 +1,1 @@
+Successfully completed Task 2 as part of my Virtual Internship at SkillCraft Technology . This repository contains the project files, implementation details, and outputs. Excited to continue learning and building more projects throughout this internship!
